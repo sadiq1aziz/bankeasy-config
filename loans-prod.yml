@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-cards:
+loans:
   message: "BankEasy Loans Microservice APIs for production"
   contactDetails:
     name: "Jane Cash - Product Owner"
