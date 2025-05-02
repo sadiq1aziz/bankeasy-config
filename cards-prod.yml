@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "BankEasy Cards Microservice APIs for PROD"
+  message: "BankEasy Cards Microservice APIs for production"
   contactDetails:
     name: "Sera Nuiter - Product Owner"
     email: "seranuiter@bankeasy.com"
