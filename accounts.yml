@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "BankEasy Accounts Microservice APIs"
+  message: "BankEasy Accounts Microservice webhook APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@bankeasy.com"
