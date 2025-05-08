@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "BankEasy Accounts Microservice APIs for PROD"
+  message: "BankEasy Accounts Microservice APIs for production"
   contactDetails:
     name: "Bruce Jupiter - Product Owner"
     email: "brucejupiter@bankeasy.com"

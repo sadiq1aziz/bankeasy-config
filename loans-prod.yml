@@ -1,8 +1,8 @@
 build:
   version: "1.0"
 
-accounts:
-  message: "BankEasy Loans Microservice APIs for PROD"
+loans:
+  message: "BankEasy Loans Microservice APIs for webhooks"
   contactDetails:
     name: "Jane Cash - Product Owner"
     email: "janecash@bankeasy.com"
