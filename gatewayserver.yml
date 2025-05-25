@@ -1,0 +1,13 @@
+server:
+  port: 8072
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+# we want this server to fetch registry details via eureka of other microservices for gateway to forward requests
+    fetchRegistry: true
+# ensure eureka server includes details of gateway in the registry
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: http://localhost:${server.port}/eureka/
