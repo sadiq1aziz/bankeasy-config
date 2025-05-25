@@ -10,4 +10,4 @@ eureka:
 # ensure eureka server includes details of gateway in the registry
     registerWithEureka: true
     serviceUrl:
-      defaultZone: http://localhost:${server.port}/eureka/
+      defaultZone: "http://localhost:8070/eureka/"
